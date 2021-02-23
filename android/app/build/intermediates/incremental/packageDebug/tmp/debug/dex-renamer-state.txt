@@ -1,0 +1,4 @@
+#Tue Feb 23 19:01:20 IST 2021
+base.0=/home/money.jain/Desktop/react-native-redux/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
